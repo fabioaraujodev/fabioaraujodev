@@ -20,7 +20,21 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=fabioara&show_icons=true&include_all_commits)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioara&layout=compact)
 
+*************
 
+<!-- GitHub Trophies -->
+
+<details align="left">
+  <summary>GitHub Trophies 🏆</summary>
+  <br>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=fabioara&theme=gruvbox&column=3&margin-w=15&margin-h=15"/>
+  </a>
+</p>
+</details>
+
+*************
 
 <!--
 **fabioara/fabioara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
