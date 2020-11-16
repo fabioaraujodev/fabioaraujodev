@@ -1,7 +1,7 @@
 ## Olá !!! 
 
 * Me chamo Fábio Araujo, sou Engenheiro de Redes por formação com pós-graduação em Engenharia de Software, Analista de Sistemas por profissão, geek por opção e curioso por natureza. Já trabalhei na Digidata, AirNet e UNIMED, sou um dos fundadores do [ClubeDelphi](https://www.devmedia.com.br/) e hoje faço parte da equipe de Desenvolvimento de Software no [ECAD](https://www.ecad.org.br).
-* Há mais de 15 anos, dedica-me a programção como desenvolvedor fullstack, dempre buscando me atualizar e está antenado as tendências.
+* Há mais de 15 anos, dedico-me a programção como desenvolvedor fullstack, sempre buscando me atualizar e estar antenado as tendências.
 
 * Casado e pai de 2 filhos maravilhosos(👨‍👩‍👧‍👦 ), amante de Ciclismo(🚴‍♂️ ) e JiuJitsu(🥋 ), atualmente membro da equipe Ideal Jiu Jitsu .
 
